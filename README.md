@@ -41,7 +41,7 @@ catkin build
 source devel/setup.bash
 ```
 
-### Usage:
+## Usage:
 
 To use this simulator use:
 ```bash
